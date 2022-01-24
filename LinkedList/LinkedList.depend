@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642600825 source:c:\users\mbr\desktop\code blocks projects\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1642600967 c:\users\mbr\desktop\code blocks projects\linkedlist\include\linkedlist.h
+	"Node.h.h"
+	<iostream>
+
+1642600729 c:\users\mbr\desktop\code blocks projects\linkedlist\include\node.h.h
+

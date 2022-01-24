@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639049614 source:c:\users\mbr\desktop\code blocks projects\dd\main.cpp
+	<iostream>
+	"graphics.h"
+
+1398769284 c:\users\mbr\desktop\code blocks projects\dd\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

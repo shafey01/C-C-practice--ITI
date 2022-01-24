@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639324286 source:c:\users\mbr\desktop\code blocks projects\strems\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

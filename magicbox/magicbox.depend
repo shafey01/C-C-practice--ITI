@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637757221 source:c:\users\mbr\desktop\code blocks projects\magicbox\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1637750807 c:\users\mbr\desktop\code blocks projects\magicbox\mylibrary.h
+	<windows.h>
+

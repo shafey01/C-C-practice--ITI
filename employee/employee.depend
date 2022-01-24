@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638191250 source:c:\users\mbr\desktop\code blocks projects\employee\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1637750807 c:\users\mbr\desktop\code blocks projects\employee\mylibrary.h
+	<windows.h>
+
